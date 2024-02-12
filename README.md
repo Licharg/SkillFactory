@@ -2,14 +2,14 @@
 
 ## Проекты
 
-* [ПРОЕКТ 0. УГАДАЙ ЧИСЛО](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1)
-* [ПРОЕКТ 1. АНАЛИЗ РЕЗЮМЕ ИЗ `HEADHUNTER`](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_1)
-* [ПРОЕКТ 2. АНАЛИЗ ВАКАНСИЙ ИЗ `HEADHUNTER`](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_2)  
-* [ПРОЕКТ 3. ПРЕДСКАЗАНИЕ РЕЙТИГА ОТЕЛЕЙ НА `BOOKING`](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_3)  
-* [ПРОЕКТ 4. КЛАССИФИКАЦИЯ КЛИЕНТОВ БАНКА](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_4)
-* [ПРОЕКТ 5. ПРЕДСКАЗАНИЕ ПРОДОЛЖИТЕЛЬНОСТИ ПОЕЗДКИ НА ТАКСИ](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_5)
-* [ПРОЕКТ 6. СЕГМЕНТАЦИЯ КЛИЕНТОВ ОНЛАЙН-МАГАЗИНА ПОДАРКОВ](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_6)
-* [ПРОЕКТ 7. ДИПЛОМ. ПРОГНОЗ РАСХОДА ЭНЕРГИИ ПО ВРЕМЕННЫМ РЯДАМ](https://github.com/StasBard/SF_DataScience/tree/master/Projects/Project_7)
+* [ПРОЕКТ 0. УГАДАЙ ЧИСЛО](https://github.com/Licharg/SkillFactory/tree/master/Projects/Project_0)
+* [ПРОЕКТ 1. АНАЛИЗ РЕЗЮМЕ ИЗ `HEADHUNTER`](https://github.com/Licharg/SkillFactory/tree/master/Projects/Project_1)
+* [ПРОЕКТ 2. АНАЛИЗ ВАКАНСИЙ ИЗ `HEADHUNTER`](https://github.com/Licharg/SkillFactory/tree/master/Projects/Project_2)  
+* [ПРОЕКТ 3. ПРЕДСКАЗАНИЕ РЕЙТИГА ОТЕЛЕЙ НА `BOOKING`](https://github.com/Licharg/SkillFactory/tree/master/Projects/Project_3)  
+* [ПРОЕКТ 4. КЛАССИФИКАЦИЯ КЛИЕНТОВ БАНКА](https://github.com/Licharg/SkillFactory/tree/master/Projects/Project_4)
+* [ПРОЕКТ 5. ПРЕДСКАЗАНИЕ ПРОДОЛЖИТЕЛЬНОСТИ ПОЕЗДКИ НА ТАКСИ](https://github.com/Licharg/SkillFactory/tree/master/Projects/Project_5)
+* [ПРОЕКТ 6. СЕГМЕНТАЦИЯ КЛИЕНТОВ ОНЛАЙН-МАГАЗИНА ПОДАРКОВ](https://github.com/Licharg/SkillFactory/tree/master/Projects/Project_6)
+* [ПРОЕКТ 7. ДИПЛОМ. ПРОГНОЗ РАСХОДА ЭНЕРГИИ ПО ВРЕМЕННЫМ РЯДАМ](https://github.com/Licharg/SkillFactory/tree/master/Projects/Project_7)
 
 ## Задания
 
