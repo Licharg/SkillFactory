@@ -4,25 +4,25 @@
 
 ## **Содержание**
 
-1. [Описание проекта](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_1/README.md#Описание-проекта)  
-2. [Решаемая задача](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_1/README.md#Решаемая-задача)
+1. [Описание проекта](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_2/README.md#Описание-проекта)  
+2. [Решаемая задача](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_2/README.md#Решаемая-задача)
 
-    2.1 [Условия](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_1/README.md#Условия)
+    2.1 [Условия](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_2/README.md#Условия)
 
-    2.2 [Метрики](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_1/README.md#Метрики)
+    2.2 [Метрики](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_2/README.md#Метрики)
 
-    2.3 [Навыки](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_1/README.md#Навыки)
+    2.3 [Навыки](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_2/README.md#Навыки)
 
-3. [Информация о данных](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_1/README.md#Информация-о-данных)  
-4. [Этапы работы над проектом](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_1/README.md#Этапы-работы-над-проектом)  
-5. [Результаты](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_1/README.md#Результаты)
-6. [Выводы](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_1/README.md#Выводы)
+3. [Информация о данных](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_2/README.md#Информация-о-данных)  
+4. [Этапы работы над проектом](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_2/README.md#Этапы-работы-над-проектом)  
+5. [Результаты](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_2/README.md#Результаты)
+6. [Выводы](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_2/README.md#Выводы)
 
 ### **Описание проекта**
 
 Анализ базы вакансий `HeadHunter` с целью её подготовки для использования в модели машинного обучения, которая будет рекомендовать вакансии клиентам кадрового агентства, претендующим на позицию `Data Scientist`.
 
-:arrow_up:[к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_1/README.md#Содержание)
+:arrow_up:[к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_2/README.md#Содержание)
 
 ### **Решаемая задача**
 
@@ -56,7 +56,7 @@
 - Улучшить навыки работы с `IDE VS Code`, `Git`, `GitHub` (посредством добавления отчета о проекте в портфолио);
 - Улучшить навыки составления эффективного воспроизводимого кода на `Python` в соответствии с `PEP 8`.
 
-:arrow_up:[к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_1/README.md#Содержание)
+:arrow_up:[к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_2/README.md#Содержание)
 
 ### **Информация о данных**
 
@@ -69,7 +69,7 @@
   - `industries` - справочник вариантов сфер деятельности работодателей,  
   - `employers_industries` - дополнительная таблица для организации связи между работодателями и сферами их деятельности, поскольку у одного работодателя может быть несколько сфер деятельности (или работодатели могут вовсе не указать их).
   
-:arrow_up:[к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_1/README.md#Содержание)
+:arrow_up:[к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_2/README.md#Содержание)
 
 ### **Этапы работы над проектом**
 
@@ -81,7 +81,7 @@
 - Дополнительный (собственный) анализ.  
 - Оформление проекта и загрузка на `GitHub`.
 
-:arrow_up:[к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_1/README.md#Содержание)
+:arrow_up:[к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_2/README.md#Содержание)
 
 ### **Результаты**
 
@@ -94,7 +94,7 @@
 - Сделан упор на `SQL`-запросы с целью наиболее понятного представления данных для ответа на поставленные вопросы без частого использования графиков;  
 - Подготовлен и выгружен на  `GitHub` [отчет](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_2/Project-2_Job_position_analysis.ipynb) об анализе базы вакансий в формате `jupiter-notebook`.  
 
-:arrow_up:[к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_1/README.md#Содержание)
+:arrow_up:[к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_2/README.md#Содержание)
 
 ### **Выводы**
 
@@ -104,6 +104,6 @@
 - Успешно реализованы все обозначенные практики;
 - Получен фидбэк по выполненному проекту, который можно посмотреть по [ссылке](https://disk.yandex.ru/i/xvV3Mp2i505YbA)
 
-:arrow_up:[к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_1/README.md#Содержание)
+:arrow_up:[к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_2/README.md#Содержание)
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
