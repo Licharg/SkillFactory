@@ -1,28 +1,28 @@
 # **ПРОЕКТ 3. ПРЕДСКАЗАНИЕ РЕЙТИГА ОТЕЛЕЙ НА `BOOKING`**
 
-<center> <img src = https://images.ctfassets.net/pqmtoyw9z10u/7DZKSFGT6CPVTWucjWbiZ4/d402829e4bdf619d343a2f6569ac0159/Booking-Logo.png alt="drawing" style="width:400px;" </center>
+<center> <img src = https://images.ctfassets.net/pqmtoyw9z10u/7DZKSFGT6CPVTWucjWbiZ4/d402829e4bdf619d343a2f6569ac0159/Booking-Logo.png alt="drawing" style="width: 800px; height:400px;" </center>
 
 ## **Содержание**
 
-1. [Описание проекта](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Описание-проекта)  
-2. [Решаемая задача](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Решаемая-задача)
+1. [Описание проекта](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_3/README.md#Описание-проекта)  
+2. [Решаемая задача](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_3/README.md#Решаемая-задача)
 
-    2.1 [Условия](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Условия)
+    2.1 [Условия](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_3/README.md#Условия)
 
-    2.2 [Метрики](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Метрики)
+    2.2 [Метрики](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_3/README.md#Метрики)
 
-    2.3 [Навыки](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Навыки)
+    2.3 [Навыки](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_3/README.md#Навыки)
 
-3. [Информация о данных](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Информация-о-данных)  
-4. [Этапы работы над проектом](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Этапы-работы-над-проектом)  
-5. [Результат](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Результат)
-6. [Выводы](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Выводы)
+3. [Информация о данных](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_3/README.md#Информация-о-данных)  
+4. [Этапы работы над проектом](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_3/README.md#Этапы-работы-над-проектом)  
+5. [Результат](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_3/README.md#Результат)
+6. [Выводы](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_3/README.md#Выводы)
 
 ### **Описание проекта**
 
 В компании `Booking` одна из проблем — это нечестные отели, которые накручивают себе рейтинг. Одним из способов обнаружения таких отелей является построение модели, которая предсказывает рейтинг отеля. Если предсказания модели сильно отличаются от фактического результата, то, возможно, отель ведёт себя нечестно, и его стоит проверить.  
 
-:arrow_up:[к содержанию](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Содержание)
+:arrow_up:[к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_3/README.md#Содержание)
 
 ### **Решаемая задача**
 
@@ -67,15 +67,16 @@
 - Практиковать навыки использования языка разметки `MarkDown`;  
 - Улучшить навыки составления эффективного воспроизводимого кода на `Python` в соответствии с `PEP 8`.
 
-:arrow_up:[к содержанию](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Содержание)
+:arrow_up:[к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_3/README.md#Содержание)
 
 ### **Информация о данных**
 
 - Для работы над проектом предоставлена база отелей сервиса `Booking.com` в виде тренировочного и тестового датафреймов, отличающихся наличием признака пользовательской оценки отеля `reviewer_score`.
+- Данные занимают большой объём, поэтому их нет возможности выложить на платформе `GinHub`, тем не менее их скачать в соревновании с платформы [Kaggle](https://www.kaggle.com/competitions/sf-booking/data).
 - Описание всех признаков содержится в начале ноутбука с решением.  
 - В ходе работы разрешается использовать любые внешние источники для генерирования дополнительных признаков в данных.
   
-:arrow_up:[к содержанию](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Содержание)
+:arrow_up:[к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_3/README.md#Содержание)
 
 ### **Этапы работы над проектом**
 
@@ -87,7 +88,7 @@
 - Предсказание рейтинга отелей.  
 - Оформление проекта на `Kaggle` и `GitHub`.  
 
-:arrow_up:[к содержанию](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Содержание)
+:arrow_up:[к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_3/README.md#Содержание)
 
 ### **Результаты**
 
@@ -102,9 +103,9 @@
 - Достигнуто целевое значение итоговой метрики `MAPE` (12,59% в ноутбуке);  
 - Каждый этап сопровожден развернутыми комментариями и выводами, визуализацией данных;
 - Файл `sumbission.csv` с предсказанными рейтингами загружен на `Kaggle`;  
-- Проект в виде ноутбука оформлен на [Kaggle](https://www.kaggle.com/code/licharg/eda-booking-reviews) и [GitHub](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_3/Project-3_EDA_Booking_reviews.ipynb).
+- Проект в виде ноутбука оформлен на [Kaggle](https://www.kaggle.com/code/licharg/eda-booking-reviews) и [GitHub](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_3/Project-3_Booking_reviews.ipynb).
 
-:arrow_up:[к содержанию](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Содержание)
+:arrow_up:[к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_3/README.md#Содержание)
 
 ### **Выводы**
 
@@ -113,8 +114,8 @@
 - Вместе с тем, данный проект показал значимость подготовки данных перед обучением модели и позволил потренировать полученные навыки разведывательного анализа.  
 - Сюрпризом (на который намекал во время вводного вебинара ментор) стало взаимодействие методов нормализации и стандартизации данных с моделью машинного обучения `RandomForestRegressor`: использование первых либо ухудшало значение метрики `MAPE`, либо улучшало ее незначительно, но при этом искажало получаемые предсказания. В результате, от использования этих методов в данном проекте пришлось отказаться.  
 - Особой ценностью проекта стала его реализация на платформе `kaggle` в атмосфере здоровой конкуренции за высокий рейтинг. Студенты получили действительный инструмент повышения своих навыков `Data Scientist`'а и, следовательно, шансов на трудоустройство через участие в реальных интересных соревнованиях.  
-- Получен фидбэк по выполненному проекту, который можно посмотреть по [ссылке](https://disk.yandex.ru/i/Lja2JJXHwDHsYw)
+- Получен фидбэк по выполненному проекту, который можно посмотреть по [ссылке](https://disk.yandex.ru/i/7_wik6DQxvaBVg)
 
-:arrow_up:[к содержанию](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Содержание)
+:arrow_up:[к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_3/README.md#Содержание)
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
