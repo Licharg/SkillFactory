@@ -4,26 +4,26 @@
 
 ## **Содержание**
 
-1. [Описание проекта](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Описание-проекта)  
-2. [Решаемая задача](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Решаемая-задача)
+1. [Описание проекта](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_5/README.md#Описание-проекта)  
+2. [Решаемая задача](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_5/README.md#Решаемая-задача)
 
-    2.1 [Условия](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Условия)
+    2.1 [Условия](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_5/README.md#Условия)
 
-    2.2 [Метрики](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Метрики)
+    2.2 [Метрики](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_5/README.md#Метрики)
 
-    2.3 [Навыки](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Навыки)
+    2.3 [Навыки](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_5/README.md#Навыки)
 
-3. [Информация о данных](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Информация-о-данных)  
-4. [Этапы работы над проектом](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Этапы-работы-над-проектом)  
-5. [Результат](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Результат)
-6. [Выводы](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Выводы)
+3. [Информация о данных](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_5/README.md#Информация-о-данных)  
+4. [Этапы работы над проектом](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_5/README.md#Этапы-работы-над-проектом)  
+5. [Результаты](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_5/README.md#Результаты)
+6. [Выводы](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_5/README.md#Выводы)
 
 ### **Описание проекта**
 
 - Автоматизация бизнес-процессов сервисов такси города Нью-Йорк путем создания модели машинного обучения, способной предсказывать продолжительность поездки в зависимости от различных факторов.  
 - Решаемая задача была представлена в качестве `Data Science`-соревнования на платформе [Kaggle](https://www.kaggle.com/competitions/nyc-taxi-trip-duration/overview) в 2017 году с призовым фондом в $30'000.
 
-:arrow_up:[к содержанию](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Содержание)
+:arrow_up:[к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_5/README.md#Содержание)
 
 ### **Решаемая задача**
 
@@ -52,7 +52,7 @@
 - Попрактиковать навыки использования языка разметки `MarkDown`;
 - Улучшить навыки составления эффективного воспроизводимого кода на `Python` в соответствии с `PEP 8`.
 
-:arrow_up:[к содержанию](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Содержание)
+:arrow_up:[к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_5/README.md#Содержание)
 
 ### **Информация о данных**
 
@@ -60,10 +60,10 @@
 - Кроме этого, для решения задачи использованы вспомогательные данные из других источников, такие как:
   - национальные праздники,
   - сведения о погоде и данные из `Open Source Routing Machine` (сервиса, позволяющего строить кратчайшие маршруты по координатам и оценивать примерную длительность маршрута).  
-- Все датасеты доступны на платформе `Kaggle` и подключены к ноутбуку.  
+- Все датасеты доступны на платформе [Kaggle(https://www.kaggle.com/competitions/nyc-taxi-trip-duration/data)].  
 - Информация о признаках главного датасета с 1.5 млн поездок приведена в начале ноутбука.  
   
-:arrow_up:[к содержанию](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Содержание)
+:arrow_up:[к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_5/README.md#Содержание)
 
 ### **Этапы работы над проектом**
 
@@ -74,7 +74,7 @@
 - Решение задачи регрессии: ансамблевые методы и построение прогноза.
 - Загрузка предсказания на `Kaggle`.
 
-:arrow_up:[к содержанию](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Содержание)
+:arrow_up:[к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_5/README.md#Содержание)
 
 ### **Результаты**
 
@@ -83,9 +83,9 @@
 - Обучены модели машинного обучения: `LinearRegression, Ridge, DecisionTreeRegressor, RandomForestRegressor, GradientBoostingRegressor, XGboost` (в качестве бонуса).
 - Модели сравнены по метрике `RMSLE`, результаты сведены в таблицу, сделаны выводы.
 - Предсказание загружено на страницу соревнования на платформе [Kaggle](https://www.kaggle.com/competitions/nyc-taxi-trip-duration/leaderboard).
-- [Отчет](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_5/Project-5_ML_NYC_taxi_trip_duration_regression_task.ipynb) в формате `Jupiter Notebook` загружен на `GitHub`.
+- [Отчет](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_5/Project-5_NYC_taxi_trip_duration.ipynb) в формате `Jupiter Notebook` загружен на `GitHub`.
 
-:arrow_up:[к содержанию](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Содержание)
+:arrow_up:[к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_5/README.md#Содержание)
 
 ### **Выводы**
 
@@ -96,6 +96,6 @@
 - Текущий результат (примерно 473 место в рейтинге соревнования) далеко не лучший, однако последующее углубление знаний в области машинного обучения вкупе с более эвристическими приемами предварительной обработки и разведывательного анализа имеющихся данных, бесспорно, позволят улучшать положение в рейтинге подобных соревнований.  
 - В ходе реализации проекта улучшены навыки разведывательного анализа, работы с моделями МО, написан воспроизводимый код на `Python` в соответствии с `PEP 8`.
 
-:arrow_up:[к содержанию](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Содержание)
+:arrow_up:[к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_5/README.md#Содержание)
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
