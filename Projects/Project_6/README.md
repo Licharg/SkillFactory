@@ -4,25 +4,25 @@
 
 ## **Содержание**
 
-1. [Описание проекта](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Описание-проекта)  
-2. [Решаемая задача](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Решаемая-задача)
+1. [Описание проекта](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_6/README.md#Описание-проекта)  
+2. [Решаемая задача](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_6/README.md#Решаемая-задача)
 
-    2.1 [Условия](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Условия)
+    2.1 [Условия](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_6/README.md#Условия)
 
-    2.2 [Метрики](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Метрики)
+    2.2 [Метрики](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_6/README.md#Метрики)
 
-    2.3 [Навыки](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Навыки)
+    2.3 [Навыки](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_6/README.md#Навыки)
 
-3. [Информация о данных](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Информация-о-данных)  
-4. [Этапы работы над проектом](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Этапы-работы-над-проектом)  
-5. [Результат](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Результат)
-6. [Выводы](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Выводы)
+3. [Информация о данных](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_6/README.md#Информация-о-данных)  
+4. [Этапы работы над проектом](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_6/README.md#Этапы-работы-над-проектом)  
+5. [Результат](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_6/README.md#Результат)
+6. [Выводы](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_6/README.md#Выводы)
 
 ### **Описание проекта**
 
 Сегментация клиентов на основе их покупательской способности, частоты совершения заказов и срока давности последнего заказа. В качестве дополнения - построение модели, определяющей сегмент клиента.
 
-:arrow_up:[к содержанию](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Содержание)
+:arrow_up:[к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_6/README.md#Содержание)
 
 ### **Решаемая задача**
 
@@ -55,14 +55,14 @@
 - Понимание и использование метрик качества моделей;
 - Работа с `Git` и `GitHub` посредством добавления отчета о проделанной работе в портфолио.
 
-:arrow_up:[к содержанию](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Содержание)
+:arrow_up:[к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_6/README.md#Содержание)
 
 ### **Информация о данных**
 
 - В датасете представлены более полумиллиона транзакций некоего онлайн-магазина подарков в Великобритании за годовой период с декабря 2010 по декабрь 2011 года.
 - Информация о признаках главного датасета приведена в начале ноутбука.
   
-:arrow_up:[к содержанию](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Содержание)
+:arrow_up:[к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_6/README.md#Содержание)
 
 ### **Этапы работы над проектом**
 
@@ -73,7 +73,7 @@
 - Решение задачи кластеризации алгоритмами `k-means`, `EM`, `AgglomerativeClustering`.  
 - Решение дополнительной задачи классификации с помощью `RandomForestClassifier` и `GradientBoostingClassifier`.  
 
-:arrow_up:[к содержанию](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Содержание)
+:arrow_up:[к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_6/README.md#Содержание)
 
 ### **Результаты**
 
@@ -82,9 +82,9 @@
 - Выполнено снижение размерности двумя алгоритмами, оценена эффективность каждого.  
 - Проведена кластеризация с помощью нескольких методов и отобран лучший по метрике коэффициента силуэта.  
 - Решена дополнительная задача классификации с помощью моделей `RandomForestClassifier` и `GradientBoostingClassifier`.  
-- [Отчет](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_6/Project_6_ML_Online_customer_segmentation.ipynb) в формате `Jupiter Notebook` загружен на `GitHub`.  
+- [Отчет](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_6/Project_6_Online_customer_segmentation.ipynb) в формате `Jupiter Notebook` загружен на `GitHub`.  
 
-:arrow_up:[к содержанию](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Содержание)
+:arrow_up:[к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_6/README.md#Содержание)
 
 ### **Выводы**
 
@@ -93,6 +93,6 @@
 - Полученные сегментированные (размеченные данные) позволили дополнительно реализовать задачу обучения с учителем как с целью проверки качества кластеризации, так и с целью предсказания сегмента для новых клиентов.  
 - Улучшены навыки разведывательного анализа, работы с моделями МО, написан воспроизводимый код на `python` в соответствии с `PEP 8`.
 
-:arrow_up:[к содержанию](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Содержание)
+:arrow_up:[к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_6/README.md#Содержание)
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
