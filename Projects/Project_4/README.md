@@ -1,28 +1,28 @@
 # **ПРОЕКТ 4. КЛАССИФИКАЦИЯ КЛИЕНТОВ БАНКА**
 
-<center> <img src = https://media.baamboozle.com/uploads/images/394336/1641713500_2692709.jpeg alt="drawing" style="width:400px;" </center>
+<center> <img src = https://media.baamboozle.com/uploads/images/394336/1641713500_2692709.jpeg alt="drawing" style="width: 800px; height:400px;" </center>
 
 ## **Содержание**
 
-1. [Описание проекта](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Описание-проекта)  
-2. [Решаемая задача](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Решаемая-задача)
+1. [Описание проекта](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_4/README.md#Описание-проекта)  
+2. [Решаемая задача](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_4/README.md#Решаемая-задача)
 
-    2.1 [Условия](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Условия)
+    2.1 [Условия](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_4/README.md#Условия)
 
-    2.2 [Метрики](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Метрики)
+    2.2 [Метрики](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_4/README.md#Метрики)
 
-    2.3 [Навыки](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Навыки)
+    2.3 [Навыки](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_4/README.md#Навыки)
 
-3. [Информация о данных](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Информация-о-данных)  
-4. [Этапы работы над проектом](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Этапы-работы-над-проектом)  
-5. [Результат](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Результат)
-6. [Выводы](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Выводы)
+3. [Информация о данных](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_4/README.md#Информация-о-данных)  
+4. [Этапы работы над проектом](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_4/README.md#Этапы-работы-над-проектом)  
+5. [Результаты](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_4/README.md#Результаты)
+6. [Выводы](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_4/README.md#Выводы)
 
 ### **Описание проекта**
 
 Повышение результативности маркетинговой кампании банка за счёт определения характеристик клиентов банка, более склонных к открытию депозита в банке, и построения модели машинного обучения, способной на основе предложенных характеристик клиента предсказывать, воспользуется он предложением об открытии депозита или нет. Данные принадлежат реальному банку.
 
-:arrow_up:[к содержанию](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Содержание)
+:arrow_up:[к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_4/README.md#Содержание)
 
 ### **Решаемая задача**
 
@@ -59,14 +59,14 @@
 - Попрактиковать навыки использования языка разметки `MarkDown`;  
 - Улучшить навыки составления эффективного воспроизводимого кода на `Python` в соответствии с `PEP 8`.
 
-:arrow_up:[к содержанию](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Содержание)
+:arrow_up:[к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_4/README.md#Содержание)
 
 ### **Информация о данных**
 
 - Данные реальные без предварительной обработки представлены в формате `.csv` и расположены в папке `data/`.  
 - Информация о признаках приведена в начале ноутбука.  
   
-:arrow_up:[к содержанию](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Содержание)
+:arrow_up:[к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_4/README.md#Содержание)
 
 ### **Этапы работы над проектом**
 
@@ -77,7 +77,7 @@
 - Решение задачи классификации: ансамбли моделей и построение прогноза.
 - Оформление проекта на `GitHub`.  
 
-:arrow_up:[к содержанию](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Содержание)
+:arrow_up:[к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_4/README.md#Содержание)
 
 ### **Результаты**
 
@@ -88,9 +88,9 @@
 - Обучены модели машинного обучения: `LogisticRegression`, `DecisionTreeClassifier`, `RandomForestClassifier`, `GradientBoostingClassifier`, `StackingClassifier`.  
 - Для оптимизации гиперпараметров использованы `GridSearchCV` и `Optuna`.  
 - Модели сравнены по метрикам, сделаны выводы.
-- [Отчет](https://github.com/StasBard/SF_DataScience/blob/master/Projects/Project_4/Project-4_ML_Bank_client_classification.ipynb) в формате `Jupiter Notebook` загружен на `GitHub`.
+- [Отчет](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_4/Project-4_Bank_client_classification.ipynb) в формате `Jupiter Notebook` загружен на `GitHub`.
 
-:arrow_up:[к содержанию](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Содержание)
+:arrow_up:[к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_4/README.md#Содержание)
 
 ### **Выводы**
 
@@ -98,6 +98,6 @@
 - Проделанная работа по выявлению решающих факторов, обучению моделей и построению прогноза способна поднять доходы банка и содействовать пониманию целевой аудитории, которую необходимо привлекать путем рекламы и различных предложений.  
 - По итогам выполнения задачи улучшены навыки работы с моделями МО и алгоритмами их оптимизации, написан  воспроизводимый код на python в соответствии с `PEP 8`.
 
-:arrow_up:[к содержанию](https://github.com/Licharg/Project-1.-Analysis-of-HeadHunter-resumes/blob/master/README.md#Содержание)
+:arrow_up:[к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_4/README.md#Содержание)
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
