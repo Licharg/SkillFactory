@@ -15,7 +15,7 @@
 
 3. [Информация о данных](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_0/README.md#Информация-о-данных)  
 4. [Этапы работы над проектом](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_0/README.md#Этапы-работы-над-проектом)  
-5. [Результат](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_0/README.md#Результат)
+5. [Результат](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_0/README.md#Результаты)
 6. [Выводы](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_0/README.md#Выводы)
 
 ### **Описание проекта**
