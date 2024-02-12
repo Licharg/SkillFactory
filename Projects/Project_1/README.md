@@ -1,6 +1,6 @@
 # **ПРОЕКТ 1. АНАЛИЗ РЕЗЮМЕ ИЗ `HEADHUNTER`**
 
-<center> <img src = https://raw.githubusercontent.com/AndreyRysistov/DatasetsForPandas/main/hh%20label.jpg alt="drawing" style="width: 800px; height:400px;" </center>
+<center> <img src = https://ffb.ranepa.ru/images/hh-ru.jpg alt="drawing" style="width: 800px; height:400px;" </center>
 
 ## **Содержание**
 
