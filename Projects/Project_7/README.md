@@ -157,7 +157,7 @@
   
 :arrow_up:[к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Содержание)
 
-### 🔍 **Выводы**
+### **Выводы**
 
   Вся последовательность прогнозирования расхода энергии представлена в [Отчете](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/Project_7_Diploma_Energy-consumption-forecast-by-time-series.ipynb) в формате `Jupiter Notebook`. Краткие результаты расчётов представим в виде таблице. Используемые метрики были:
 
