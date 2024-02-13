@@ -7,23 +7,40 @@
 1. [Краткий обзор](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Краткий-обзор)
 2. [Библиотеки и модули](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Библиотеки-и-модули)
 3. [EDA](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#EDA)
-  3.1 [Обработка и очистка данных](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Обработка-и-очистка-данных)
-  3.2 [Визуализация очищенных исходных данных](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Визуализация-очищенных-исходных-данных)
-  3.3 [Графический анализ энергопотребления](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Графический-анализ-энергопотребления)
-  3.4 [Графический анализ энергопотребления с учётом времени года](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Графический-анализ-энергопотребления-с-учётом-времени-года)
-  3.5 [Анализ на гистограммах по временам года](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Анализ-на-гистограммах-по-временам-года)
+
+    3.1 [Обработка и очистка данных](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Обработка-и-очистка-данных)
+
+    3.2 [Визуализация очищенных исходных данных](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Визуализация-очищенных-исходных-данных)
+
+    3.3 [Графический анализ энергопотребления](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Графический-анализ-энергопотребления)
+
+    3.4 [Графический анализ энергопотребления с учётом времени года](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Графический-анализ-энергопотребления-с-учётом-времени-года)
+
+    3.5 [Анализ на гистограммах по временам года](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Анализ-на-гистограммах-по-временам-года)
+
 4. [Статистический анализ данных](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Статистический-анализ-данных)
-  4.1 [Сезонная декомпозиция](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Сезонная-декомпозиция)
-  4.2 [Стационарность и гетероскедастичность](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Стационарность-и-гетероскедастичность)
-  4.3 [Автокорреляция и частичная автокорреляция](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Автокорреляция-и-частичная-автокорреляция)
+
+    4.1 [Сезонная декомпозиция](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Сезонная-декомпозиция)
+
+    4.2 [Стационарность и гетероскедастичность](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Стационарность-и-гетероскедастичность)
+
+    4.3 [Автокорреляция и частичная автокорреляция](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Автокорреляция-и-частичная-автокорреляция)
+
 5. [Моделирование временных рядов](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Моделирование-временных-рядов)
-  5.1 [Подготовка данных к моделированию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Подготовка-данных-к-моделированию)
-  5.2 [Модель `Baseline` - наивный прогноз](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Модель-`Baseline`---наивный-прогноз-(`AR`))
-  5.3 [Модель `HWES` - тройное экспонециальное сглаживание Холта-Винтера](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Модель-`HWES`---тройное-экспонециальное-сглаживание-Холта-Винтера)
-  5.4 [Модель `XGBoost`](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Модель-`XGBoost`)
-  5.5 [Модель `Lasso` - `L1`-регрессия](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Модель-`LASSO`---`L1`-регрессия)
-  5.6 [Модель `SARIMA`](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Модель-`SARIMA`)
-  5.7 [Модель `Prophet`](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Модель-`Prophet`)
+
+    5.1 [Подготовка данных к моделированию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Подготовка-данных-к-моделированию)
+
+    5.2 [Модель `Baseline` - наивный прогноз](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Модель-`Baseline`---наивный-прогноз-(`AR`))
+
+    5.3 [Модель `HWES` - тройное экспонециальное сглаживание Холта-Винтера](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Модель-`HWES`---тройное-экспонециальное-сглаживание-Холта-Винтера)
+    5.4 [Модель `XGBoost`](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Модель-`XGBoost`)
+
+    5.5 [Модель `Lasso` - `L1`-регрессия](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Модель-`LASSO`---`L1`-регрессия)
+
+    5.6 [Модель `SARIMA`](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Модель-`SARIMA`)
+
+    5.7 [Модель `Prophet`](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Модель-`Prophet`)
+
 6. [Выводы](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Выводы)
 
 ### 📂 **Краткий обзор**
