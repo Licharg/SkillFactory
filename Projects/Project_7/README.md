@@ -2,6 +2,8 @@
 
 <center> <img src = https://s1.1zoom.me/big3/445/Sunrises_and_sunsets_Sky_Clouds_Sun_Power_line_515273_4200x2800.jpg alt="drawing" style="width: 400px; height:200px;" </center>
 
+![Рис_01](.\Images\f5a0b03f4fd95382666e583b074f34b7.jpeg "Потребление энергии `PJM`")
+
 ## **Содержание**
 
 1. [Краткий обзор](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Краткий-обзор)
