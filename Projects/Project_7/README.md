@@ -30,13 +30,13 @@
 
     5.1 [Подготовка данных к моделированию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Подготовка-данных-к-моделированию)
 
-    5.2 [Модель `Baseline` - наивный прогноз](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Модель-`Baseline`---наивный-прогноз-(`AR`))
+    5.2 [Модель `Baseline` - наивный прогноз](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Модель-Baseline---наивный-прогноз-(`AR`))
 
     5.3 [Модель `HWES` - тройное экспонециальное сглаживание Холта-Винтера](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Модель-HWES---тройное-экспонециальное-сглаживание-Холта-Винтера)
 
     5.4 [Модель `XGBoost`](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Модель-XGBoost)
 
-    5.5 [Модель `Lasso` - `L1`-регрессия](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Модель-LASSO---`L1`-регрессия)
+    5.5 [Модель `Lasso` - `L1`-регрессия](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Модель-LASSO---L1-регрессия)
 
     5.6 [Модель `SARIMA`](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Модель-SARIMA)
 
