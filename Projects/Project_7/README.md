@@ -36,7 +36,7 @@
 
     5.4 [Модель `XGBoost`](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Модель-XGBoost)
 
-    5.5 [Модель `Lasso` - `L1`-регрессия](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Модель-LASSO---L1-регрессия)
+    5.5 [Модель `Lasso` - `L1`-регрессия](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Модель-LASSO-L1-регрессия)
 
     5.6 [Модель `SARIMA`](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_7/README.md#Модель-SARIMA)
 
