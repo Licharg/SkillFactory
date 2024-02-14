@@ -56,7 +56,7 @@
 ### **Информация о данных**
 
 - На вход функции отгадывания `random_predict` последовательно подаются "загаданные" числа из листа чисел в 1000 элементов, сгенерированных произвольным образом в интервале от 1 до 100. С целью воспроизводитости фиксируется значение `seed`.
-- Представлен шаблон `baseline` из скринкаста.
+- Представлен шаблон [baseline](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_0/baseline.py) из скринкаста.
   
 :arrow_up: [к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_0/README.md#Содержание)
 
@@ -82,7 +82,7 @@
     3. GitHub оформлен соответствующим образом — Выполнено (1 балл);
     4. Код соответствует PEP8 — Выполнено (1 балл);
     5. Код воспроизводим — Выполнено (1 балл).
-- Подготовлен [отчет](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_1/Project-1_Resumes_Analysis.ipynb) об анализе базы данных резюме в формате `jupiter-notebook` с рекомендациями, на какие признаки стоит обратить внимание при создании модели машинного обучения.
+- Подготовлен [отчет](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_0/Project-0_Guess_The_Number_Program.py) об анализе базы данных резюме в формате `jupiter-notebook` с рекомендациями, на какие признаки стоит обратить внимание при создании модели машинного обучения.
 
 :arrow_up: [к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_0/README.md#Содержание)
 
