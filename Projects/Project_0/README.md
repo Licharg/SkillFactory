@@ -1,4 +1,4 @@
-# **ПРОЕКТ 0. УГАДАЙ ЧИСЛО**
+# **ПРОЕКТ 0. ПРОГРАММА УГАДАЙ ЧИСЛО**
 
 <center> <img src = https://i.ytimg.com/vi/Dk9a6K0X2uQ/maxresdefault.jpg?7857057827 alt="drawing" style="width: 800px; height:400px;" </center>
 
@@ -82,8 +82,7 @@
     3. GitHub оформлен соответствующим образом — Выполнено (1 балл);
     4. Код соответствует PEP8 — Выполнено (1 балл);
     5. Код воспроизводим — Выполнено (1 балл).
-
-- Получен фидбэк по выполненному проекту, который можно посмотреть по [ссылке](https://disk.yandex.ru/i/sxlN7_l1g--k6A)
+- Подготовлен [отчет](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_1/Project-1_Resumes_Analysis.ipynb) об анализе базы данных резюме в формате `jupiter-notebook` с рекомендациями, на какие признаки стоит обратить внимание при создании модели машинного обучения.
 
 :arrow_up: [к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_0/README.md#Содержание)
 
@@ -95,6 +94,7 @@
 - код составлен в соответствии с `PEP 8`;
 - улучшены навыки работы в `IDE VS Code`;
 - улучшены навыки использования `GitHub` и оформления сопроводительной документации.
+- Получен фидбэк по выполненному проекту, который можно посмотреть по [ссылке](https://disk.yandex.ru/i/sxlN7_l1g--k6A)
 
 :arrow_up: [к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_0/README.md#Содержание)
 
