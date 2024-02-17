@@ -4,8 +4,8 @@
 
 ## **Содержание**
 
-1. [Описание задания](https://github.com/StasBard/SF_DataScience/tree/master/Tasks/Task_1#1-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)  
-2. [Решаемая задача](https://github.com/StasBard/SF_DataScience/tree/master/Tasks/Task_1#2-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC%D0%B0%D1%8F-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0)
+1. [Описание задания](Tasks/Task_10/README.md#Описание-задания)  
+2. [Решаемая задача](Tasks/Task_10/README.md#Решаемая-задача)
 
     2.1 [Условия](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_5/README.md#Условия)
 
