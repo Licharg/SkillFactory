@@ -87,7 +87,7 @@
 - Оптимизированы гиперпараметры моделей с помощью четырех методов, использована кросс-валидация.  
 - Написаны подробные выводы по каждому методу, сделан общий вывод на основе результатов.  
 - [Отчет](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_10/Task_10_Predicting_a_Biological_Response.ipynb) в формате `Jupiter Notebook` загружен на `GitHub`.
-- Получен фидбэк по выполненному проекту, который можно посмотреть по [ссылке](https://disk.yandex.ru/i/Brv_Ythz1uxrjA)
+- Получен фидбэк по выполненному проекту, который можно посмотреть по [ссылке](https://disk.yandex.ru/i/0x3rO6LYunn4aQ)
 
 :arrow_up: [к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_10/README.md#Содержание)
 
