@@ -4,38 +4,37 @@
 
 ## **Содержание**
 
-1. [Описание задания](Tasks/Task_10/README.md#Описание-задания)  
-2. [Решаемая задача](Tasks/Task_10/README.md#Решаемая-задача)
+1. [Описание задания](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_10/README.md#Описание-задания)  
+2. [Решаемая задача](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_10/README.md#Решаемая-задача)
 
-    2.1 [Условия](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_5/README.md#Условия)
+    2.1 [Условия](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_10/README.md#Условия)
 
-    2.2 [Метрики](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_5/README.md#Метрики)
+    2.2 [Метрики](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_10/README.md#Метрики)
 
-    2.3 [Навыки](https://github.com/Licharg/SkillFactory/blob/master/Projects/Project_5/README.md#Навыки)
+    2.3 [Навыки](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_10/README.md#Навыки)
 
-3. [Информация о данных](https://github.com/StasBard/SF_DataScience/tree/master/Tasks/Task_1#3-%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)  
-4. [Этапы работы над заданием](https://github.com/StasBard/SF_DataScience/tree/master/Tasks/Task_1#4-%D1%8D%D1%82%D0%B0%D0%BF%D1%8B-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D0%BD%D0%B0%D0%B4-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC)  
-5. [Результаты](https://github.com/StasBard/SF_DataScience/tree/master/Tasks/Task_1#5-%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B)
-6. [Выводы](https://github.com/StasBard/SF_DataScience/tree/master/Tasks/Task_1#6-%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D1%8B)
+3. [Информация о данных](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_10/README.md#Информация-о-данных)  
+4. [Этапы работы над заданием](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_10/README.md#Этапы-работы-над-заданием)  
+5. [Результаты](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_10/README.md#Результаты)
+6. [Выводы](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_10/README.md#Выводы)
 
 ### **Описание задания**
 
 Отработка навыков оптимизации гиперпараметров моделей машинного обучения при помощи базовых и продвинутых методов, их сравнение и анализ результатов на примере задачи предсказания биологического ответа молекул по их химическому составу.
 
-:arrow_up: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Tasks/Task_1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up: [к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_10/README.md#Содержание)
 
 ### **Решаемая задача**
 
-Обучить две модели МО и затем выполнить подбор гиперпараметров с целью улучшения целевой метрики $F_1$-score с помощью четырех предложенных методов. Сравнить результаты и оформить решение в виде ноутбука .ipynb.
-
-Задача основана на соревновании [Kaggle: Predicting a Biological Response (Прогнозирование биологического ответа)](https://www.kaggle.com/c/bioresponse).  
+- Обучить две модели МО и затем выполнить подбор гиперпараметров с целью улучшения целевой метрики $F_1$-score с помощью четырех предложенных методов. Сравнить результаты и оформить решение в виде ноутбука `.ipynb`.
+- Задача основана на соревновании [Kaggle: Predicting a Biological Response (Прогнозирование биологического ответа)](https://www.kaggle.com/c/bioresponse).  
 
 #### **Условия**
 
-1. Необходимо предсказать биологический ответ молекул (столбец 'Activity') по их химическому составу (столбцы D1-D1776).
-2. Модели машинного обучения для предсказания: логистическая регрессия и случайный лес из библиотеки sklearn.  
-3. Методы оптимизации гиперпараметров: базовые - GridSearchCV, RandomizedSearchCV, продвинутые - Hyperopt, Optuna.  
-4. Максимальное количество итераций при подборе гиперпараметров не должно превышать 50.  
+- Необходимо предсказать биологический ответ молекул (столбец `Activity`) по их химическому составу (столбцы `D1-D1776`).
+- Модели машинного обучения для предсказания: логистическая регрессия и случайный лес из библиотеки `sklearn`.  
+- Методы оптимизации гиперпараметров: базовые - `GridSearchCV`, `RandomizedSearchCV`, продвинутые - `Hyperopt`, `Optuna`.  
+- Максимальное количество итераций при подборе гиперпараметров не должно превышать 50.  
 
 #### **Метрики**
 
@@ -51,45 +50,46 @@
 | 4 | Обучено две модели; гипепараметры подобраны при помощи 4 методов |
 | 5 | Обучено две модели; гипепараметры подобраны при помощи 4 методов; использована кросс-валидация |
 
-Максимальное количество баллов за выполненное задание, таким образом - 5.  
+- Максимальное количество баллов за выполненное задание, таким образом - 5.  
 
 #### **Навыки**
 
 - практиковать навыки работы с моделями МО;
 - освоить на практике работу с базовыми и продвинутыми методами оптимизации гиперпараметров;
-- практиковать работу в среде Google Colab;  
-- повторить навыки работы с Git, GitHub посредством добавления отчета о проделанной работе в портфолио.
+- практиковать работу в среде `Google Colab`;  
+- повторить навыки работы с `Git`, `GitHub` посредством добавления отчета о проделанной работе в портфолио.
 
-:arrow_up: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Tasks/Task_1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up: [к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_10/README.md#Содержание)
 
 ### **Информация о данных**
 
-Данные представлены в формате .csv.  Каждая строка представляет молекулу:
+Данные представлены в формате `.csv`.  Каждая строка представляет молекулу:
 
-- первый столбец 'Activity' содержит экспериментальные данные, описывающие фактический биологический ответ [0, 1];  
-- остальные столбцы 'D1-D1776' представляют собой молекулярные дескрипторы — это вычисляемые свойства, которые могут фиксировать некоторые характеристики молекулы, например размер, форму или состав элементов.  
+- первый столбец `Activity` содержит экспериментальные данные, описывающие фактический биологический ответ [0, 1];  
+- остальные столбцы `D1-D1776` представляют собой молекулярные дескрипторы — это вычисляемые свойства, которые могут фиксировать некоторые характеристики молекулы, например размер, форму или состав элементов.  
 
 Предварительная обработка не требуется, данные уже закодированы и нормализованы.
   
-:arrow_up: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Tasks/Task_1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up: [к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_10/README.md#Содержание)
 
 ### **Этапы работы над заданием**
 
-1. Обучить обе модели и предсказать результат, используя гиперпараметры по умолчанию (baseline-решение).  
-2. Оптимизировать гиперпараметры обеих моделей с помощью базовых методов GridSearchCV и RandomizedSearchCV.  
-3. Оптимизировать гиперпараметры обеих моделей с помощью продвинутых библиотек Hyperopt и Optuna.  
-4. Сравнить полученные результаты, сделать выводы.
+- Обучить обе модели и предсказать результат, используя гиперпараметры по умолчанию (`baseline`-решение).  
+- Оптимизировать гиперпараметры обеих моделей с помощью базовых методов `GridSearchCV` и `RandomizedSearchCV`.  
+- Оптимизировать гиперпараметры обеих моделей с помощью продвинутых библиотек `Hyperopt` и `Optuna`.  
+- Сравнить полученные результаты, сделать выводы.
 
-:arrow_up: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Tasks/Task_1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up: [к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_10/README.md#Содержание)
 
 ### **Результаты**
 
-1. Обучены обе модели машинного обучения: LogisticRegression и RandomForestClassifier.  
-2. Оптимизированы гиперпараметры моделей с помощью четырех методов, использована кросс-валидация.  
-3. Написаны подробные выводы по каждому методу, сделан общий вывод на основе результатов.  
-4. [Отчет](https://github.com/StasBard/SF_DataScience/blob/master/Tasks/Task_1/ML_7_Task_Predicting_a_Biological_Response.ipynb) в формате Jupiter Notebook загружен на GitHub.  
+- Обучены обе модели машинного обучения: `LogisticRegression` и `RandomForestClassifier`.  
+- Оптимизированы гиперпараметры моделей с помощью четырех методов, использована кросс-валидация.  
+- Написаны подробные выводы по каждому методу, сделан общий вывод на основе результатов.  
+- [Отчет](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_10/Task_10_Predicting_a_Biological_Response.ipynb) в формате `Jupiter Notebook` загружен на `GitHub`.
+- Получен фидбэк по выполненному проекту, который можно посмотреть по [ссылке](https://disk.yandex.ru/i/kruIxH11lDCuKw)
 
-:arrow_up: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Tasks/Task_1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up: [к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_10/README.md#Содержание)
 
 ### **Выводы**
 
@@ -98,10 +98,10 @@
 - улучшены навыки работы с моделями МО;
 - проведено знакомство на практике с базовыми и продвинутыми методами оптимизации гиперпараметров;  
 - получено понимание особенностей применения каждого из методов оптимизации для последующих задач;  
-- углублены навыки работы в среде Google Colab;  
-- написан эффективный воспроизводимый код на python;  
-- код составлен в соответствии с PEP 8.
+- углублены навыки работы в среде `Google Colab`;  
+- написан эффективный воспроизводимый код на `Python`;  
+- код составлен в соответствии с `PEP 8`.
 
-:arrow_up: [к оглавлению](https://github.com/StasBard/SF_DataScience/tree/master/Tasks/Task_1#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up: [к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_10/README.md#Содержание)
 
 Если информация по заданию представляется Вам интересной и полезной, я буду Вам благодарен за отметку моего репозитория и профиля звездами ⭐️⭐️⭐️!  
