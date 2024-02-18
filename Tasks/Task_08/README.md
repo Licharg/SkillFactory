@@ -69,7 +69,7 @@
 ### **Результаты**
 
 - Подготовлен [отчет](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_08/Task_08_Churn_for_Bank_Customers.ipynb) в формате `Jupiter Notebook`, в котором представлены ответы на все 10 вопросов. Ответы проиллюстрированы графиками и сопровождены развернутыми выводами.
-- Получен фидбэк по выполненному заданию, который можно посмотреть по [ссылке](https://disk.yandex.ru/i/0x3rO6LYunn4aQ)
+- Получен фидбэк по выполненному заданию, который можно посмотреть по [ссылке](https://disk.yandex.ru/i/LtrqsNJhGyP1Ew)
 
 :arrow_up: [к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_10/README.md#Содержание)
 
