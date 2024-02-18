@@ -4,25 +4,25 @@
 
 ## **Содержание**
 
-1. [Описание задания](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_03_/README.md#Описание-задания)  
-2. [Решаемая задача](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_03_/README.md#Решаемая-задача)
+1. [Описание задания](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_03/README.md#Описание-задания)  
+2. [Решаемая задача](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_03/README.md#Решаемая-задача)
 
-    2.1 [Условия](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_03_/README.md#Условия)
+    2.1 [Условия](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_03/README.md#Условия)
 
-    2.2 [Метрики](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_03_/README.md#Метрики)
+    2.2 [Метрики](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_03/README.md#Метрики)
 
-    2.3 [Навыки](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_03_/README.md#Навыки)
+    2.3 [Навыки](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_03/README.md#Навыки)
 
-3. [Информация о данных](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_03_/README.md#Информация-о-данных)  
-4. [Этапы работы](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_03_/README.md#Этапы-работы)  
-5. [Результаты](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_03_/README.md#Результаты)
-6. [Выводы](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_03_/README.md#Выводы)
+3. [Информация о данных](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_03/README.md#Информация-о-данных)  
+4. [Этапы работы](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_03/README.md#Этапы-работы)  
+5. [Результаты](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_03/README.md#Результаты)
+6. [Выводы](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_03/README.md#Выводы)
 
 ### **Описание задания**
 
 Используя информацию по мидиям Петербурга и Магадана, которые представлены в виде двух массивов petersburg и magadan в разделе ANOVA-тест, проверить данные на нормальность и на наличие корреляции.
 
-:arrow_up: [к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_03_/README.md#Содержание)
+:arrow_up: [к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_03/README.md#Содержание)
 
 ### **Решаемая задача**
 
@@ -58,13 +58,13 @@
 - Практиковать работу в среде `Google Colab`;
 - Улучшить навыки работы с `Git`, `GitHub` посредством добавления отчета о проделанной работе в портфолио.
 
-:arrow_up: [к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_03_/README.md#Содержание)
+:arrow_up: [к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_03/README.md#Содержание)
 
 ### **Информация о данных**
 
 - Для работы представлены данные в виде двух массивов `petersburg` и `magadan`.
   
-:arrow_up: [к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_03_/README.md#Содержание)
+:arrow_up: [к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_03/README.md#Содержание)
 
 ### **Этапы работы**
 
@@ -75,14 +75,14 @@
 - Обосновать выбор теста.
 - Сделать вывод по гипотезе.
 
-:arrow_up: [к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_03_/README.md#Содержание)
+:arrow_up: [к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_03/README.md#Содержание)
 
 ### **Результаты**
 
 - Подготовлен [отчет](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_03_/Task_03__Churn_for_Bank_Customers.ipynb) в формате `Jupiter Notebook` и приведена ссылка на `Colab`.
 - Получен фидбэк по выполненному заданию, который можно посмотреть по [ссылке](https://disk.yandex.ru/i/LtrqsNJhGyP1Ew)
 
-:arrow_up: [к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_03_/README.md#Содержание)
+:arrow_up: [к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_03/README.md#Содержание)
 
 ### **Выводы**
 
@@ -99,6 +99,6 @@
 - Улучшены навывки работы с `Git` и консольными командами;
 - Улучшены навыки использования `GitHub` и оформления сопроводительной документации.
 
-:arrow_up: [к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_03_/README.md#Содержание)
+:arrow_up: [к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_03/README.md#Содержание)
 
 Если информация по заданию представляется Вам интересной и полезной, я буду Вам благодарен за отметку моего репозитория и профиля звездами ⭐️⭐️⭐️!  
