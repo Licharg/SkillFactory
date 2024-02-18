@@ -1,4 +1,4 @@
-# **ЗАДАНИЕ 10. ОПРЕДЕЛЕНИЕ ОТТОКА КЛИЕНТОВ БАНКА**
+# **ЗАДАНИЕ 8. ОПРЕДЕЛЕНИЕ ОТТОКА КЛИЕНТОВ БАНКА**
 
 <center> <img src = https://i2.wp.com/miro.medium.com/0*VTMnppFqGtMBm1KO.png alt="drawing" style="width: 800px; height:400px;">
 
