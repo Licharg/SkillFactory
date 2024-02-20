@@ -79,7 +79,7 @@
 
 ### **Результаты**
 
-- Подготовлен [отчет](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_03_/Task_03__Churn_for_Bank_Customers.ipynb) в формате `Jupiter Notebook` и приведена ссылка на `Colab`.
+- Подготовлен [отчет](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_03/Test_4_Determining_the_average_size_of_a_mussel_depending_on_the_location.ipynb) в формате `Jupiter Notebook` и приведена ссылка на `Colab`.
 - Получен фидбэк по выполненному заданию, который можно посмотреть по [ссылке](https://disk.yandex.ru/d/yMu2GROR0ZuxFQ)
 
 :arrow_up: [к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_03/README.md#Содержание)
