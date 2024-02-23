@@ -41,7 +41,7 @@
 КРИТЕРИИ ОЦЕНКИ МЕНТОРОМ:
 
 |Баллы|Критерий|
-|:---:|:---:|
+|:---:|:---|
 |5|Проведена визуализация корреляции между 7 числовыми признаками, использованными для обучения модели|
 |10|Произведено логирование графика в `Comet`|
 
@@ -81,7 +81,7 @@
 ### **Результаты**
 
 - Подготовлен [отчет](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_05/Task_05_Medical_Appointment_No_Shows.ipynb) в формате `Jupiter Notebook` и приведена ссылка на `Colab`.
-- Получен фидбэк по выполненному заданию, который можно посмотреть по [ссылке](https://disk.yandex.ru/d/yMu2GROR0ZuxFQ)
+- Получен фидбэк по выполненному заданию, который можно посмотреть по [ссылке](https://disk.yandex.ru/i/6sS_DJxqMJ4pjw)
 
 :arrow_up: [к содержанию](https://github.com/Licharg/SkillFactory/blob/master/Tasks/Task_05/README.md#Содержание)
 
